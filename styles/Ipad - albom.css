@@ -1,0 +1,57 @@
+@media (min-width: 1024px) and (max-width: 1200px){
+
+.footer-right-block {
+	padding-left: 0;
+}
+
+.article h1 {
+	font-size: 4em;
+}
+
+
+.select-page {
+	width: 5%;
+}
+
+.right-menu {
+	width: 15%;
+}
+
+.article button:hover {
+	background-color: #ff9787;
+
+	transition: background 0.3s ease-in-out;
+}
+
+.details-block button:hover {
+	background-color: #ff9787;
+
+	transition: background 0.3s ease-in-out;
+}
+
+
+.sale-blocks {
+	width: 1024px;
+}
+
+.products {
+	width: 1000px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

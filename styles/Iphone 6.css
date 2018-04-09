@@ -1,0 +1,252 @@
+@media (min-width: 321px) and (max-width: 767px) { 
+	
+
+.header-menu {
+	display: none;
+}
+
+
+	.hamburger-menu {
+		display: block;
+	}
+
+	.hamburger{
+		display: flex;
+		background:none;
+		padding: 0;
+		/* padding-left: 5px; */
+		color:#999;
+		border:0;
+		font-size: 1.7em;
+		font-weight:bold;
+		cursor:pointer;
+		outline:none;
+		z-index:10000000000000;
+	}
+	.cross{
+		display: none;
+		}
+	
+.header-block {
+	align-items: center;
+}
+
+.logo img {
+	width: 50%;
+}
+
+.logo {
+	justify-content: center;
+}
+
+.right-menu {
+	margin-left: 0;
+}
+
+.article {
+	width: 100%;
+	margin-left: 0;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	text-align: center;
+}
+
+.article h1 {
+	font-size: 2em;
+}
+
+.article p {
+	font-size: 1.5em;	
+}
+
+.fa-cog {
+	display: none;
+}
+
+.bag {
+	display: none;
+}
+
+
+.article button {
+	width: 130px;
+	height: 40px;
+	font-size: 1em;
+}
+
+nav {
+	height: 500px;
+}
+
+.select-page {
+	width: 20%;
+	margin: 0 auto;
+}
+
+.article h1 {
+	font-size: 2em;
+}
+
+.email-block {
+	width: 90%;
+	padding-top: 5px;
+	flex-wrap: wrap;
+	display: block;
+	justify-content: space-around;
+}
+
+.email-block form {
+	padding-right: 0;
+	width: 33%;
+}
+
+.icons {
+	width: 50%;
+}
+
+.block-product {
+	width: 45%;
+	margin-bottom: 5%;
+}
+
+.newsletter {
+	width: 80%;
+}
+
+.email-block form input[type="search"] {
+	width: 78%;
+}
+
+.follow-us {
+	height: 300px;
+}
+
+.block-sale-first {
+	width: 100%;
+}
+
+.block-sale-second {
+	width: 100%;
+	margin: 20px 0;
+	justify-content: center;
+}
+
+.sale-blocks {
+	flex-wrap: wrap;
+	padding: 0;
+}
+
+.block-products h1 {
+	font-size: 1.5em;
+}
+
+.pefrumes-block div {
+	flex-direction: column;
+	font-size: 0.6em;
+}
+
+.pefrumes-block img {
+	width: 100%;
+}
+
+.info-product h4 {
+	margin: 0;
+}
+
+.block-sale-second {
+	display: none;
+}
+
+.sale-blocks {
+	width: 100%;
+}
+
+.pefrumes-block {
+	flex-direction: column;
+}
+
+.action h3 {
+	font-size: 0.8em;
+}
+
+.action p {
+	font-size: 0.7em;
+}
+
+
+.action i {
+	font-size: 3em;
+}
+
+.categ-names {
+	font-size: 0.4em;
+}
+
+.image-product {
+	height: 200px;
+}
+
+.details-block {
+	font-size: 0.8em;
+}
+
+.news-block {
+	flex-direction: column;
+}
+
+.news {
+	width: 100%;	
+}
+
+.footer-info {
+	width: 100%;
+}
+
+footer {
+	flex-direction: column;
+}
+
+.action-block {
+	padding: 1px;
+	display: block;
+}
+
+.action {
+	width: 100%;
+}
+
+.products2 {
+	justify-content: space-between;
+}
+
+.products2 div {
+	padding: 0;
+}
+
+.footer-right-block {
+	width: 100%;
+	padding: 0;
+}
+
+.footer-right-block img {
+	display: none;
+}
+
+.email-block h3 {
+	width: 100%;
+	padding-right: 0;
+}
+
+.products {
+	width: 100%;
+}
+
+
+
+
+
+
+
+}

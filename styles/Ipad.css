@@ -1,0 +1,239 @@
+@media (min-width: 768px) and (max-width: 1023px) { 
+
+.header-menu {
+	display: none;
+}
+
+
+	.hamburger-menu {
+		display: block;
+	}
+
+	.hamburger{
+		display: flex;
+		background:none;
+		padding: 0;
+		/* padding-left: 5px; */
+		color:#999;
+		border:0;
+		font-size: 1.7em;
+		font-weight:bold;
+		cursor:pointer;
+		outline:none;
+		z-index:10000000000000;
+	}
+	.cross{
+		display: none;
+		}
+	
+.header-block {
+	align-items: center;
+}
+
+.logo img {
+	width: 50%;
+}
+
+.logo {
+	justify-content: center;
+}
+
+.right-menu {
+	margin-left: 0;
+}
+
+.article {
+	width: 100%;
+	margin-left: 0;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	text-align: center;
+}
+
+.article h1 {
+	font-size: 3em;
+}
+
+.article p {
+	font-size: 1.5em;	
+}
+
+.fa-cog {
+	display: none;
+}
+
+.bag {
+	display: none;
+}
+
+
+.article button {
+	width: 130px;
+	height: 40px;
+	font-size: 1em;
+}
+
+nav {
+	height: 500px;
+}
+
+.select-page {
+	width: 20%;
+	margin: 0 auto;
+}
+
+.newsletter {
+	width: 33%;
+}
+
+.article h1 {
+	font-size: 2em;
+}
+
+.email-block {
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.email-block form {
+	padding-right: 0;
+	text-align: center;
+	width: 33%;
+}
+
+.email-block form input[type="search"] {
+	width: 78%;
+}
+
+.follow-us {
+	height: 250px;
+}
+
+.block-sale {
+	height: 160px;
+}
+
+.block-sale-first {
+	margin-top: 15px;
+	margin-bottom: 15px;
+	width: 100%;
+}
+
+.block-sale-second {
+	width: 100%;
+	margin: 20px 0;
+	justify-content: center;
+}
+
+.sale-blocks {
+	width: 650px;
+	flex-wrap: wrap;
+	padding: 0;
+}
+
+.block-products h1 {
+	font-size: 1.5em;
+}
+
+.pefrumes-block div {
+	flex-direction: column;
+	font-size: 0.6em;
+}
+
+.pefrumes-block img {
+	width: 50%;
+}
+
+.pefrumes-block {
+	flex-direction: row;
+}
+
+.action h3 {
+	font-size: 0.8em;
+}
+
+.action p {
+	font-size: 0.7em;
+}
+
+
+.action i {
+	font-size: 3em;
+}
+
+.categ-names {
+	font-size: 0.4em;
+}
+
+.image-product {
+	height: 200px;
+}
+
+.details-block {
+	font-size: 0.8em;
+}
+
+.news-block {
+	flex-direction: row;
+}
+
+.news {
+	margin: 0 1%;
+	width: 100%;	
+}
+
+.footer-info {
+	width: 100%;
+}
+
+footer {
+	flex-direction: column;
+}
+
+.products2 {
+	justify-content: space-between;
+}
+
+.products2 div {
+	padding: 0;
+}
+
+.footer-right-block {
+	width: 100%;
+	padding: 0;
+}
+
+.footer-right-block img {
+	display: none;
+}
+
+
+.email-block h3 {
+	width: 33%;
+}
+
+.email-block {
+	width: 780px;
+}
+
+.products {
+	width: 700px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
