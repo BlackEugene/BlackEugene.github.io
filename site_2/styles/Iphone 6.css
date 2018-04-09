@@ -1,0 +1,371 @@
+@media (min-width: 321px) and (max-width: 767px) { 
+	
+
+.logo-img {
+	display: none;
+}
+
+header {
+	width: 87%;
+}
+
+.header-menu {
+	display: none;
+}
+
+	.hamburger-menu {
+		display: block;
+	}
+
+	.hamburger{
+		display: flex;
+		background:none;
+		padding: 0;
+		/* padding-left: 5px; */
+		color:#999;
+		border:0;
+		font-size: 1.7em;
+		font-weight:bold;
+		cursor:pointer;
+		outline:none;
+		z-index:10000000000000;
+	}
+	.cross{
+		  background:none;
+		  padding: 0;
+		  height: 36px;
+		  color:#999;
+		  border:0;
+		  font-size:3em;
+		  font-weight:bold;
+		  cursor:pointer;
+		  outline:none;
+		  z-index:10000000000000;
+	}
+
+
+/*	.ul_menu li {
+		padding-right: 0;
+		margin-right: 15px;
+		font-size: 0.7em;
+	}
+	
+	.ul_menu {
+		 display: none; 
+		/* margin-top: 3px; 
+		padding-left: 5px;
+		position: absolute;
+		bottom: 1px;
+	}*/
+
+	.menu {
+		z-index:1000000;
+		font-weight:bold; 
+		font-size:0.8em; 
+		width:100%; 
+		background:#f1f1f1;
+		text-align:center; 
+		font-size:12px;
+		}
+
+	.menu ul {
+		margin: 0; 
+		padding: 0; 
+		list-style-type: none; 
+		list-style-image: none;
+		}
+
+	.menu li {
+		display: block;   
+		padding:15px 0 15px 0; 
+		border-bottom:#dddddd 1px solid;
+		}
+
+	.menu li:hover{
+		display: block;    
+		background:#ffffff; 
+		padding:15px 0 15px 0; 
+		border-bottom:#dddddd 1px solid;
+		}
+
+	.menu ul li a { 
+		text-decoration:none;  
+		margin: 0px; 
+		color:#666;
+		}
+
+	.menu ul li a:hover {  
+		color: #666; 
+		text-decoration:none;
+		}
+
+	.menu a {
+		text-decoration:none; 
+		color:#666;
+		}
+	 
+	.menu a:hover {
+		text-decoration:none;
+		 color:#666;
+		}
+
+.download-button {
+	display: none;
+}
+
+.download-icon {
+	padding-top: 6px;
+	font-size: 1.8em!important;
+	display: block!important;
+}
+
+.logo-img-text {
+	margin-left: 0;
+}
+
+
+.nav-iphone {
+	display: none;
+}
+
+.video {
+	background-image: url(img/images/luxfon.com_21682.jpg);
+	background-size: cover;
+	height: 500px;
+}
+
+nav {
+	background-size: cover;
+	height: 500px;
+}
+
+.info-1, .info-2, .info-3	 {
+	width: 100%;
+	margin-bottom: 15%;
+}
+
+.info-app {
+	flex-direction: column;
+}
+
+.about-block-iphone {
+	display: none;
+}
+
+.about-approx-container {
+	width: 100%;
+}
+
+section {
+	margin-bottom: 20%;
+	height: 100%;	
+}
+
+
+.button-block {
+	width: 40%;
+	margin: 0 auto;
+}
+
+.block-text-app {
+	width: 80%;
+}
+
+.block-text-app p {
+	width: 100%!important;
+}
+
+.block-slider {
+	display: none;
+}
+
+.slider-dots {
+	display: none;
+}
+
+.video-img {
+	height: 400px;
+}
+
+.video {
+	width: 100%;
+}
+
+.block-featured {
+	flex-direction: column;
+}
+
+.block-tallent {
+	width: 80%;
+}
+
+.block-tallent p {
+	width: 100%!important;
+}
+
+.fa-angle-left {
+	display: none!important;
+}
+
+.fa-angle-right {
+	display: none!important;
+}
+
+.team {
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+
+.team-player {
+	margin-bottom: 5%;
+	max-width: 60%;
+	margin: 5% auto;
+}
+
+.team :nth-child(5) {
+	margin: 5% auto;
+}
+
+.download-block {
+	flex-direction: column;
+}
+
+.download-block-text {
+	margin: 0 auto;
+	width: 80%;
+}
+
+.block-testimonials {
+	width: 80%;
+}
+
+.block-testimonials p {
+	width: 100%!important;
+}
+
+.background-block {
+	display: none;
+}
+
+.block-reviews {
+	margin-top: 10%;
+	width: 80%;
+	margin: 0 auto;
+}
+
+.block-user {
+	flex-direction: row;
+	flex-wrap: wrap;
+	width: 100%;
+}
+
+.right-line {
+	display: none;
+}
+
+.block-price {
+	width: 80%;
+}
+
+.block-price p {
+	width: 100%!important;
+}
+
+.block-price-pack {
+	justify-content: space-around;
+	flex-wrap: wrap;
+	align-items: center;
+	flex-direction: row;
+}
+
+._b-element {
+	width: 200px;
+	margin-right: 0;
+	margin-bottom: 10%;
+}
+
+._b-last-news {
+	width: 80%;
+}
+
+._b-last-news p {
+	width: 100%!important;
+}
+
+._b-news {
+	flex-wrap: wrap;
+	flex-direction: row;
+}
+
+.-b-news-container {
+	width: 250px;
+	flex-wrap: wrap;
+	margin: 0 auto;
+	margin-bottom: 10%;
+}
+
+._b-element-img {
+	width: 200px;
+}
+
+._b-news-container-img {
+	max-width: 100%;
+}
+
+.reviev {
+	margin: 20% auto;r
+}
+
+
+._b-subscribe {
+	padding: 0;
+	height: 100px;
+	align-items: center;
+	flex-direction: column;
+	width: 100%;
+}
+
+._b-map-img {
+	display: none;
+} 
+
+._b-map-img img {
+	height: 175px;
+}
+
+._b-leave-message {
+	display: none;
+}
+
+._b-subscribe form {
+	margin-left: 0;
+	margin-bottom: 5%;
+}
+
+._b-copyright {
+	flex-direction: column;
+}
+
+.footer-icons {
+
+	width: 100%;
+}
+
+._b-contacts-address-text p {
+	width: 100%!important;
+}
+
+.footer-contacts {
+	width: 80%;
+}
+
+._b-contacts-address-text h3::after {
+	bottom: -10px;
+	height: 1px;
+}
+
+.nav-text-h1 {
+	font-size: 1.2em;
+}
+
+}

@@ -1,0 +1,9 @@
+/******** IPHONE 4 ***********/
+
+@media screen and (max-width: 320px) {	
+
+.logo-img {
+	display: none;
+}
+
+}
